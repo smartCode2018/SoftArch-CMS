@@ -3,7 +3,7 @@
 <h3>Features<h3>
     <ul>
         <li>
-            Rich and well structured back end with upto date laravel technology and functions
+            Rich and well structured backend with upto date laravel technology and functions
         </li>
         <li> Complete Crud Funtionalities </li>
         <li> Publishing and managing Blogs </li>
